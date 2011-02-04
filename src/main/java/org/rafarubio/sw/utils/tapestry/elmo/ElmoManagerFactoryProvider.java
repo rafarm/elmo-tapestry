@@ -98,7 +98,7 @@ public class ElmoManagerFactoryProvider implements RegistryShutdownListener {
 			try {
 				repo.shutDown();
 			} catch (RepositoryException e) {
-				// TODO Auto-generated catch block
+				// TODO Decide what to do with this eventuality
 				e.printStackTrace();
 			}
 		}

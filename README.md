@@ -1,7 +1,7 @@
 # elmo-tapestry
 OpenRDF Elmo Tapestry integration module
 
-Provides autobuilded `ElmoManager`s configured through `ElmoContextProvider` (mapped `ElmoManagerFactory`s) service contributions.
+Provides autobuilded `ElmoManager` configured through `ElmoContextProvider` (mapped `ElmoManagerFactory`) service contributions.
 
 Exemple:
 
